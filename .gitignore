@@ -1,0 +1,33 @@
+# 설정과 비밀값
+config.local.json
+.env
+.env.*
+*.key
+*.pem
+api_key
+
+# 사용자가 직접 준비하는 외부 자산
+vendor/
+assets/
+fonts/
+*.otf
+*.ttf
+*.ttc
+*.ckpt
+
+# 영상·음성·회차 결과물
+episodes/
+*.mp4
+*.mov
+*.m4a
+*.mp3
+*.wav
+*.srt
+대본.txt
+
+# 환경·생성물
+.venv/
+.venv-bandit/
+__pycache__/
+*.pyc
+.DS_Store

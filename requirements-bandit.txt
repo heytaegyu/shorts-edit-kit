@@ -1,0 +1,9 @@
+# bandit_separate.py 전용. requirements.txt와 다른 numpy를 쓰므로 별도 가상환경(.venv-bandit)에 설치한다.
+torch==2.5.1
+torchaudio==2.5.1
+numpy==2.2.6
+soundfile==0.14.0
+pytorch-lightning==2.6.6
+torchmetrics==1.9.0
+librosa==1.0.0
+PyYAML==6.0.3

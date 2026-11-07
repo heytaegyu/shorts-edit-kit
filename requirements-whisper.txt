@@ -1,0 +1,2 @@
+# Apple Silicon 전용. transcribe.py와 qa.py의 받아쓰기 검사에 사용.
+mlx-whisper==0.4.3

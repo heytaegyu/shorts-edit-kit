@@ -1,0 +1,17 @@
+{
+  "font_path": "~/Library/Fonts/your-korean-font.otf",
+  "capcut_root": "~/Movies/CapCut/User Data/Projects/com.lveditor.draft",
+  "capcut_template_dir": "~/Movies/CapCut/User Data/Projects/com.lveditor.draft/your_template",
+  "capcut_assets_dir": "./assets",
+  "capcut_file_sfx_name": "name-of-a-file-sfx-in-your-template.m4a",
+  "sfx_dirs": ["~/path/to/your/sfx"],
+  "flash_sfx": "~/path/to/your/sfx/shutter.mp3",
+  "transition_sfx_prefixes": [],
+  "episode_roots": ["~/path/to/your/episodes"],
+  "elevenlabs_voice_id": "your-voice-id",
+  "elevenlabs_key_file": "~/.config/elevenlabs/api_key",
+  "whisper_model": "mlx-community/whisper-large-v3-turbo",
+  "whisper_base_prompt": "",
+  "bandit_repo": "./vendor/bandit-v2",
+  "bandit_ckpt": "./vendor/bandit-ckpt/checkpoint-eng.ckpt"
+}
